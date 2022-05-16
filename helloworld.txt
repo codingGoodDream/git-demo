@@ -16,3 +16,4 @@ hello world！hello git！hot-fix test
 非常好用。。。。
 hello world！hello git！master test2
 hello world！hello git！hot-fix test 2
+remote test2!!!!
